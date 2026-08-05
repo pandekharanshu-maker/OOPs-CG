@@ -35,7 +35,7 @@ class Info extends Person {
 		System.out.println("Successfully Inherited");
 	}
 }
-class inheritence {
+public class inheritence {
     public static void main(String[] args) {
        	//Multiple Inheritance
 		Dog d = new Dog();
